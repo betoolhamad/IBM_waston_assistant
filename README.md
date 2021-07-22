@@ -53,8 +53,7 @@ https://user-images.githubusercontent.com/43522153/126701995-5a814294-98da-46fc-
 
 https://user-images.githubusercontent.com/43522153/126702098-e2411308-10d1-4c4f-a04b-717f890368a6.mov
 
-
-
-
+<br></br>
+**Note:** Above, I attached the JSON file which has the dialog of my chatbot and the two interfaces, BseControl.php and Robot.php that I embedded the IBM Watson assistant on it.
 
 
