@@ -1,2 +1,2 @@
 # IBM_waston_assistant
-Embded chatbot in the interface using IBM waston.
+Embed chatbot in the interface using IBM watson service.
